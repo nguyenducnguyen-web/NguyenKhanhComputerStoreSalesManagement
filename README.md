@@ -23,7 +23,7 @@ Desktop application for Nguyễn Khanh Computer Store, developed in Java using A
 
 ## Project details
 
-- [Link](https://drive.google.com/file/d/1fjhZ0QeogXiIJthTjmWzXTiNL60AJzkB/view?usp=sharing)
+- [Link](https://docs.google.com/document/d/1yNmXmRFGBUIjGsYQh_m3MSQAJIj6YEB6/edit?usp=sharing&ouid=110380848989676522612&rtpof=true&sd=true)
 
 
 
